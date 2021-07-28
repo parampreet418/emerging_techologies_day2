@@ -1,0 +1,8 @@
+2021-07-10 18:05:31,407 - root - WARNING - This will get logged to a file
+2021-07-10 18:11:33,222 - root - WARNING - This will get logged to a file
+2021-07-10 18:16:13,335 - root - DEBUG - This is my first debug code.
+2021-07-10 18:16:13,336 - root - DEBUG - this is a debug message 
+2021-07-10 18:16:13,336 - root - INFO - this is warning 
+2021-07-10 18:16:13,337 - root - ERROR - this is error message 
+2021-07-10 18:16:13,337 - root - CRITICAL - this is critical message 
+2021-07-10 18:16:13,337 - root - WARNING - This will get logged to a file
